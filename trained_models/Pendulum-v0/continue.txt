@@ -1,0 +1,1 @@
+the continue point: 0, the lr_policy: 5e-05, the lr_value: 5e-05, units_p:[64, 64, 64], units_v:[96, 96, 96] 
