@@ -21,7 +21,7 @@
 ## Tune the hyperparameter
 
 * The hyperparameters can be changed in ```argparser()``` or command line, e.g., ```python run_ppo_combo_gym.py --clip_value 0.1```
-* The hyperparameters ```args.num_parallel_sampler``` setups the number of parallel sampler will be used
+* The hyperparameters ```args.num_parallel_sampler``` setups the number of parallel samplers to be deployed
 * The hyperparameters ```args.sample_size``` setups the total number of samples per iteration
 
 ## Some results
