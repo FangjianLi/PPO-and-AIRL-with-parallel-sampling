@@ -30,7 +30,9 @@
 * Some training results and models are saved in the directories
 * The training result with ```BipedalWalker-v2``` is shown here as an example.
 
+
+<br> <img src="walker_ppo_airl.png" width="500" height="250"/>
+
 **PPO:**      <img src="ppo_state.gif" width="200" height="150"/>
 **AIRL:**      <img src="AIRL_state.gif" width="200" height="150"/>
 
-<br> 
