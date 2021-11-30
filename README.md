@@ -29,3 +29,8 @@
 * The PPO and AIRL have been tested with openai-gym environments, e.g., ```CartPole-v1```, ```Pendulum-v0```, and ```BipedalWalker-v2```
 * Some training results and models are saved in the directories
 * The training result with ```BipedalWalker-v2``` is shown here as an example.
+
+**PPO:**      <img src="ppo_state.gif" width="200" height="150"/>
+**AIRL:**      <img src="AIRL_state.gif" width="200" height="150"/>
+
+<br> 
